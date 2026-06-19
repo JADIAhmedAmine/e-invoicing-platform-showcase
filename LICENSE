@@ -1,0 +1,14 @@
+Copyright (c) 2026 Ahmed-Amine Jadi. All rights reserved.
+
+This repository is a portfolio showcase: a curated, sanitized extract of a
+professional project, published for the sole purpose of demonstrating the
+author's engineering work to recruiters and reviewers.
+
+The code is provided for reading and evaluation only. No license is granted to
+use, copy, modify, distribute, or create derivative works from this code,
+in whole or in part, without the prior written permission of the author.
+
+The project integrates with Chorus Pro and the PISTE platform, which are
+services of the French State; references to them are for descriptive purposes
+only. No credentials, secrets, production configuration, or client data are
+included in this repository, and all screenshots use synthetic test data.

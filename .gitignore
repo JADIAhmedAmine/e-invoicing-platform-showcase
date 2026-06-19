@@ -1,0 +1,27 @@
+# Environment & secrets — never commit
+.env
+.env.*
+*.local
+config/auth-users.json
+
+# Dependencies & build outputs
+node_modules/
+dist/
+dist-ssr/
+coverage/
+.vite/
+.cache/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Editor / OS
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+
+# AI assistant workspaces
+.claude/
+.codex/
+.agents/
