@@ -9,8 +9,9 @@
 
 > ℹ️ **À propos de ce dépôt / About this repository**
 > Ceci est une **vitrine technique** (*portfolio showcase*) : un extrait **curé et anonymisé** d'un projet professionnel réel.
+> **Ce n'est qu'un petit aperçu de l'ensemble du travail réalisé** — le projet complet est nettement plus vaste (frontend complet, API, base de données, synchronisation, déploiement). Seule une fraction représentative est présentée ici.
 > Aucun secret, identifiant, donnée client ou configuration de production n'y figure. Les captures d'écran utilisent des **données de test**.
-> *This is a curated, sanitized extract of a real professional project, shared for portfolio purposes. No secrets, credentials, client data, or production configuration are included; screenshots use synthetic test data.*
+> *This is a curated, sanitized extract of a real professional project, shared for portfolio purposes. **It is only a small taste of the full body of work** — the complete project is substantially larger (full frontend, API, database, sync, deployment); only a representative fraction is shown here. No secrets, credentials, client data, or production configuration are included; screenshots use synthetic test data.*
 
 ---
 
@@ -118,7 +119,7 @@ Détails dans **[docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)**.
 
 ## Code présenté ici
 
-Ce dépôt présente un **extrait représentatif** du code (pas l'application complète et exécutable). Il a été choisi pour illustrer l'architecture et la qualité, sans exposer de logique métier propriétaire ni de configuration.
+Ce dépôt présente un **extrait représentatif** du code — un simple aperçu, **pas** l'application complète. L'application réelle est bien plus étendue ; les fichiers ci-dessous ont été choisis pour illustrer l'architecture et la qualité, sans exposer de logique métier propriétaire ni de configuration.
 
 ```
 code/
