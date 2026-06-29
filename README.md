@@ -44,19 +44,12 @@ Le tout en respectant une règle de sécurité non négociable : **le navigateur
 
 ## Aperçu de l'application
 
-| Connexion | Tableau de bord & détail facture |
-| --- | --- |
-| ![Page de connexion](docs/screenshots/cp_login.png) | ![Détail d'une facture](docs/screenshots/cp_invoice_detail.png) |
-
-| Liste des factures | Factures à traiter |
-| --- | --- |
-| ![Liste des factures](docs/screenshots/cp_invoices.png) | ![À traiter](docs/screenshots/cp_to_process.png) |
-
-| Rejets & analyse | Monitoring |
-| --- | --- |
-| ![Rejets](docs/screenshots/cp_rejections.png) | ![Monitoring](docs/screenshots/cp_monitoring.png) |
-
-*(Toutes les captures utilisent des données de test — codes destinataire et numéros de facture fictifs.)*
+L'application propose un cycle de vie complet de la facture avec interfaces pour :
+- Connexion sécurisée
+- Tableau de bord et détail des factures
+- Liste des factures à traiter
+- Gestion des rejets et analyse
+- Monitoring de l'activité
 
 ## Fonctionnalités clés
 
